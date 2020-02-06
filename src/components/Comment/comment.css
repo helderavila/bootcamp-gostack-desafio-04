@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap');
+
+.comment-section {
+  display: flex;
+}
+
+.comment-section img {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+}
+
+.comment-section div {
+  margin-left: 10px;
+  padding: 10px 15px;
+  background-color: #EEEEEE;
+  border-radius: 20px;
+}
+
+.comment-section div p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 13px;
+  color: #3E3E3E;
+}
